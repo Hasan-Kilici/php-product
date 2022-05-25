@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Recordset1" value="name:numara;datatype:int,name:urunad;datatype:string,name:urunfiyat;datatype:string" />
+</info>
